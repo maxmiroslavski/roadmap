@@ -1,0 +1,12 @@
+{
+  "header": {
+    "home": "Home",
+    "allProducts": "All Products"
+  },
+  "homePage": {
+    "greeting": "Welcome"
+  },
+  "allProductsPage": {
+    "title": "All Products"
+  }
+}

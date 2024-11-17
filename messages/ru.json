@@ -1,0 +1,12 @@
+{
+  "header": {
+    "home": "Главная",
+    "allProducts": "Все продукты"
+  },
+  "homePage": {
+    "greeting": "Добро пожаловать!"
+  },
+  "allProductsPage": {
+    "title": "Все продукты"
+  }
+}
