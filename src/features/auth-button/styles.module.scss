@@ -1,0 +1,10 @@
+.authButton {
+  font-size: 24px;
+  padding: 5px 20px;
+  background: var(--white);
+  color: var(--dark);
+
+  &:hover {
+    background: var(--grey-light);
+  }
+}

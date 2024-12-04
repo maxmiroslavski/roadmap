@@ -1,4 +1,4 @@
-import { AllProductsPage } from "@/widgets/all-products-page";
+import { AllProductsPage } from "@/pages-fsd/all-products-page";
 
 async function getData() {
   const data = await fetch("https://dummyjson.com/products?limit=5");

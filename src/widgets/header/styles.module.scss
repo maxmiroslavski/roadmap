@@ -1,0 +1,18 @@
+.header {
+  padding-block: 15px;
+  display: grid;
+  grid-template-columns: auto auto auto 1fr auto;
+  gap: 20px;
+}
+
+.link {
+  font-size: 24px;
+
+  &:hover {
+    color: var(--grey-light);
+  }
+}
+
+.authButton {
+  justify-self: flex-end;
+}

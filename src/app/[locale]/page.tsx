@@ -1,7 +1,5 @@
-import { useTranslations } from "next-intl";
+import { HomePage } from "@/pages-fsd/home";
 
 export default function Home() {
-  const t = useTranslations("homePage");
-
-  return <div>{t("greeting")}</div>;
+  return <HomePage />;
 }

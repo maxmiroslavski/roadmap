@@ -1,12 +1,20 @@
 {
   "header": {
     "home": "Главная",
-    "allProducts": "Все продукты"
+    "allProducts": "Все продукты",
+    "myProfile": "Мой профиль",
+    "dynamicPage": "Динамическая страница",
+    "login": "Войти",
+    "logout": "Выйти"
   },
   "homePage": {
     "greeting": "Добро пожаловать!"
   },
   "allProductsPage": {
     "title": "Все продукты"
+  },
+  "dynamicPage": {
+    "title": "Динамическая страница",
+    "dynamicComponent": "Динамический компонент"
   }
 }
